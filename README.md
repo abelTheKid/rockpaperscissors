@@ -1,0 +1,2 @@
+# rockpaperscissors
+First JS exercise
